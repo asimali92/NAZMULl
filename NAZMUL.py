@@ -1,0 +1,2 @@
+import nazmull
+nazmull.aorovel()
